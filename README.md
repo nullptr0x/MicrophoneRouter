@@ -17,7 +17,7 @@ shown below:
 <img src="resources/AppScreenshot.jpg" width="240" alt="App usage example">
 </div>
 
-### Receive audio on your laptop
+### Receive audio on your (modern-)linux machine
 
 Verify that the UDP data is arriving via netcat:
 ```bash
