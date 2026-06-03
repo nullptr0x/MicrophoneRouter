@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Microphone Router</string>
+    <string name="microphone_attribution_label">Microphone usage for audio routing</string>
+</resources>
